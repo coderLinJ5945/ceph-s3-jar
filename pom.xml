@@ -16,6 +16,7 @@
         <slf4j.version>1.6.4</slf4j.version>
         <lang3.version>3.5</lang3.version>
         <org.springframework.version>4.3.10.RELEASE</org.springframework.version>
+        <maven.resources.overwrite>true</maven.resources.overwrite>
     </properties>
     <dependencies>
         <!--java S3对接-->
